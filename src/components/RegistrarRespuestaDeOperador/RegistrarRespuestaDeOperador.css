@@ -1,0 +1,50 @@
+#encabezado-principal {
+    font-weight: 500;
+    text-decoration: underline;
+    background-color: rgb(54, 170, 170);
+    color: white;
+    display: inline-block;
+    padding: 16px;
+}   
+
+.dato-llamada {
+    font-size: 20px;
+}
+
+#tabla-subopciones-elegidas {
+    border: 2px solid black;
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+
+.encabezado-tabla {
+    font-size: 16px;
+}
+
+.labels-registro {
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(58, 51, 51);
+    text-decoration: underline;
+}
+
+#textarea-registro {
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+#combobox-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.botones-finales {
+    margin: 16px;
+}
+#encabezado-de-confirmacion-fallo{
+    color: red;
+    font-weight: bold;
+}
+#encabezado-de-confirmacion-exito {
+    color: green;
+    font-weight: bold;
+}

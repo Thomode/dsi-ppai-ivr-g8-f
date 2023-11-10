@@ -1,0 +1,34 @@
+#encabezado-principal-validacion {
+    font-weight: 500;
+    text-decoration: underline;
+    background-color: rgb(54, 170, 170);
+    color: white;
+    display: inline-block;
+    padding: 16px;
+}
+
+.dato-validacion {
+    font-size: 20px;
+}
+
+.label-opcion-validacion {
+    font-weight: 600;
+    color: rgb(58, 51, 51);
+}
+
+#botones-validacion-container {
+    margin: 16px;
+}
+
+.botones-validacion {
+    margin: 8px;
+}
+
+#encabezado-error-validacion {
+    color: red;
+    font-weight: bold;
+}
+
+#boton-error-validacion {
+    margin-top: 20px;
+}
